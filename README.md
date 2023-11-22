@@ -16,7 +16,7 @@ Change the value of ```n_key``` with the number of keystream bits or equations. 
 
 ## File Structure
 
-1. ```TMDTO-Lizard_fwd+bkd.ipynb```: This file contains the MILP scripts to search for the optimal number of fixed bits, recovery bits and guessed bits for ```Lizard``` cipher. This script can be used to reproduce the data in Table I in the research paper.
+1. ```TMDTO-Lizard_fwd+bkd.ipynb```: This file contains the MILP scripts to search for the optimal number of fixed bits, recovery bits and guessed bits for ```Lizard``` cipher. This script can be used to reproduce the data in ```Table I``` mentioned in the research paper.
 ## Dependencies
 
 * [Gurobi](https://www.gurobi.com/)
